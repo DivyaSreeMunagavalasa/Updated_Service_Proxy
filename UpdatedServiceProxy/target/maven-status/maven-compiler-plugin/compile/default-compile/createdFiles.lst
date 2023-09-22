@@ -1,0 +1,10 @@
+com\IoT_CRUD\UpdatedServiceProxy\service\DatabaseServiceProxy.class
+com\IoT_CRUD\UpdatedServiceProxy\model\Device.class
+com\IoT_CRUD\UpdatedServiceProxy\APIs\APIVerticle.class
+com\IoT_CRUD\UpdatedServiceProxy\service\PostgresVerticle.class
+com\IoT_CRUD\UpdatedServiceProxy\service\DatabaseServiceProxyVertxProxyHandler.class
+com\IoT_CRUD\UpdatedServiceProxy\model\Location.class
+com\IoT_CRUD\UpdatedServiceProxy\service\package-info.class
+com\IoT_CRUD\UpdatedServiceProxy\MainVerticle.class
+com\IoT_CRUD\UpdatedServiceProxy\service\DatabaseServiceProxyVertxEBProxy.class
+com\IoT_CRUD\UpdatedServiceProxy\service\DatabaseServiceImpl.class
